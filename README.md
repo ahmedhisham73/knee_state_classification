@@ -11,3 +11,7 @@ this project is made from collecting knee digital xrays dateset to classify the 
 -Fortunately the image data is cleaned it just needs resizing to size 224x224 in order to be used in more advanced CNNs such as VGG16 , MobileNet ... so on .
 
 -After Model training we need to save the model in Model saved format to be used later in deployment scenarios
+
+![knee (1)](https://user-images.githubusercontent.com/37244966/171993284-c19e9d6c-6d01-4c6b-9a14-9812574149ee.jpg)
+
+
