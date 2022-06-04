@@ -12,6 +12,12 @@ this project is made from collecting knee digital xrays dateset to classify the 
 
 -After Model training we need to save the model in Model saved format to be used later in deployment scenarios
 
-![knee (1)](https://user-images.githubusercontent.com/37244966/171993284-c19e9d6c-6d01-4c6b-9a14-9812574149ee.jpg)
+
+
+-Some screenshots for the output results 
+
+![moderat2knee](https://user-images.githubusercontent.com/37244966/171993325-fcafd0a4-2690-40e7-ade9-1e81e0edf3a3.jpg)
+![sever2knee](https://user-images.githubusercontent.com/37244966/171993329-f5068160-adc4-442a-bf2a-1ea47986db28.jpg)
+
 
 
